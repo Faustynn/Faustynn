@@ -1,14 +1,31 @@
+
 <div align="center">
   <img src="assets/main_logo.jpg" alt="Main Logo"/>
 </div>
 
-
-
-<div style="display: flex; align-items: center; margin-top: 20px;">
-    <img align="left" height="50" width="80" src="assets/kyubey.gif" alt="Icon"/>
-    <h1 style="margin-left: 10px;">Welcome, my name is Nazar!</h1>
+<!-- Header -->
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <img height="50" width="80" src="assets/kyubey.gif" alt="Icon" />
+      </td>
+      <td style="border: none; padding: 0;">
+        <h1 style="margin: 0;">Hi there, I'm Nazar!</h1>
+      </td>
+    </tr>
+  </table>
 </div>
 
+
+
+
+<!-- Information about me -->
+<h4 align="center">Student FIIT STU & Back-end developer <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"></h3>
+
+
+
+<!-- My contacts -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://t.me/faustyyn" target="_blank">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
@@ -18,6 +35,7 @@
   </a>
 </div>
 
+<!-- Visitor statistic -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faustynn.faustynn" alt="Visitor Badge" />
 </div>
@@ -26,7 +44,7 @@
 
 
 
-
+<!-- Tech. List -->
 <h2 align="center" style="margin-top: 40px;">🛠 Technology:</h2>
 
 <h5 align="left">Know:</h5>
@@ -55,7 +73,7 @@
 
 
 
-
+<!-- GitHub Statistic -->
 <h2 align="center" style="margin-top: 20px;">🛠 GitHub Stats:</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; ">
