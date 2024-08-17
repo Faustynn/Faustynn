@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://t.me/faustynn" target="_blank">
+  <a href="https://t.me/faustyyn" target="_blank">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:meredovnasar@gmail.com" target="_blank" style="margin-left: 10px;">
