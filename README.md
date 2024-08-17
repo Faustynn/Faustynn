@@ -10,10 +10,10 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/faustynn" target="_blank">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:your_email@gmail.com" target="_blank" style="margin-left: 10px;">
+  <a href="mailto:meredovnasar@gmail.com" target="_blank" style="margin-left: 10px;">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
