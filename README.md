@@ -1,11 +1,12 @@
 
 <div align="center">
-  <img src="accets/main_logo.jpg"/>
+  <img src="assets/main_logo.jpg"/>
 </div>
 
+###
 
-<div style="display: flex; align-items: center;">
-    <img height="50" width="80" src="accets/kyubey.gif" alt="Icon"/>
+<div style="display: inline-flex">
+    <img align="left" height="50" width="80" src="assets/kyubey.gif" alt="Icon"/>
     <h1 style="margin-left: 10px;">Welcome, my name is Nazar!</h1>
 </div>
 
@@ -23,10 +24,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faustynn.faustynn&"  />
 </div>
 
+###
 
 <h3 align="center">🛠 Technology:</h3>
-<p align="left">Know:</p>
-<div style="display: flex;">
+
+<h5 align="left">Know:</h5>
+<div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
@@ -34,24 +37,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40"/>
 </div>
 
-<p align="left">Learning:</p>
-<div style="display: flex;">
+<h5 align="left">Learn:</h5>
+<div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"  height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" />
 </div>
 
-<p align="left">Want to learn:</p>
-<div style="display: flex;">
+<h5 align="left">Want to learn:</h5>
+<div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
 </div>
 
+
 ###
 <h3 align="center">🛠 GitHub Stats:</h3>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
 <img alt="stats_level" align="left" src="https://github-readme-stats.vercel.app/api?username=faustynn&show_icons=true&theme=dark" height="300" width="450" />
 <img alt="stats_lang" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustynn&show_icons=true&theme=dark"  height="300" width="200"  />
 </div>
