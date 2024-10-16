@@ -1,29 +1,14 @@
-
 <div align="center">
   <img src="assets/main_logo.jpg" alt="Main Logo"/>
 </div>
 
 <!-- Header -->
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; padding: 0;">
-        <img height="50" width="80" src="assets/kyubey.gif" alt="Icon" />
-      </td>
-      <td style="border: none; padding: 0;">
-        <h1 style="margin: 0;">Hi there, I'm Nazar!</h1>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+  <h1 align="center">Hi there, I'm Nazar!<img height="50" width="80" src="assets/kyubey.gif" alt="Icon" style="border-radius: 10px; margin-left: 10px;" /></h41>
 </div>
 
-
-
-
 <!-- Information about me -->
-<h4 align="center">Student FIIT STU & Back-end developer <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"></h3>
-
-
+<h4 align="center">Student FIIT STU & Back-end developer <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"></h4>
 
 <!-- My contacts -->
 <div align="center" style="margin-top: 20px;">
@@ -39,4 +24,3 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faustynn.faustynn" alt="Visitor Badge" />
 </div>
-
