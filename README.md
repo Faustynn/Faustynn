@@ -4,7 +4,7 @@
 
 <!-- Header -->
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
-  <h1 align="center">Hi there, I'm Nazar!<img height="50" width="80" src="assets/kyubey.gif" alt="Icon" style="border-radius: 10px; margin-left: 10px;" /></h41>
+  <h1 align="center">Hi there, I'm Nazar! <img height="40" width="65" src="assets/kyubey.gif" alt="Icon" style="border-radius: 10px; margin-left: 10px;" /></h41>
 </div>
 
 <!-- Information about me -->
