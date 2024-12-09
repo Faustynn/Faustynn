@@ -20,6 +20,25 @@
   </a>
 </div>
 
+
+
+<div style="display: flex; align-items: center; margin: 20px; margin-left: 20px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; background-color: #f9f9f9;">
+
+  <a href="https://www.credly.com/users/faustyyn" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="assets/credly.png" alt="Credly" style="width: 100px; height: 100px; border-radius: 5px;">
+  </a>
+
+  <div style="text-align: left;">
+      <p style="margin-top: 5px; font-size: 16px; font-weight: bold; color: #333; text-align: center;">My certificates</p>
+  </div>
+</div>
+
+
+
+
+
+
+
 <!-- Visitor statistic -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faustynn.faustynn" alt="Visitor Badge" />
