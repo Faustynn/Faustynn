@@ -30,7 +30,7 @@
       </td>
       <td align="center" width="120" style="vertical-align: bottom;">
         <a href="https://www.credly.com/users/faustyyn" target="_blank">
-          <img src="assets/credly.png" alt="Credly" width="80" height="80"/>
+          <img src="assets/credly.png" alt="Credly" width="65" height="65"/>
           <br><br>
         </a>
         Certificates
