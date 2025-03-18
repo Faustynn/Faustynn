@@ -1,8 +1,11 @@
+<!-- Logo -->
 <div align="center">
   <img src="assets/main_logo.jpg" alt="Main Logo"/>
 </div>
+
 <!-- Header -->
 <h1 align="center">Hi there, I'm Nazar! <img height="40" width="65" src="assets/kyubey.gif" alt="Icon" /></h1>
+
 <!-- My contacts -->
 <div align="center">
   <table>
@@ -38,6 +41,13 @@
     </tr>
   </table>
 </div>
+
+<!-- See my CV -->
+<div align="center">
+  <h2>📄 <a href="assets/CV.pdf">Read my CV</a></h2>
+</div>
+
+
 <!-- Visitor statistic -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faustynn.faustynn" alt="Visitor Badge" />
