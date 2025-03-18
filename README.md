@@ -12,8 +12,11 @@
 
 <!-- My contacts -->
 <div align="center" style="margin-top: 20px;">
+    <a href="https://linkedin.com/in/nazar-meredov-4b0872317" target="_blank">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://t.me/faustyyn" target="_blank">
-    <img alt="Telegram Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
+    <img alt="Telegram Badge" src="https://img.shields.io/badge/TELEGRAM-red?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:meredovnasar@gmail.com" target="_blank" style="margin-left: 10px;">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white">
