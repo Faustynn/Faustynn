@@ -18,7 +18,7 @@
       </td>
       <td align="center" width="100">
         <a href="https://t.me/faustyyn" target="_blank">
-          <img src="assets/telegram.png" alt="Telegram" width="90" height="90"/>
+          <img src="assets/telegram.png" alt="Telegram" width="80" height="80"/>
         </a>
         <br>
         Telegram
